@@ -1,6 +1,6 @@
 name: danhwang
 favicon: null
-layout_spectrum: 0.25037
+layout_spectrum: 1
 typography_spectrum: 0.61263
 title: Dan Hwang
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b5b5b5'
   brandStrength: 0.3125
   lightness: 0.875
-  saturation: 1
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
