@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dan Hwang]]></title>
         <description><![CDATA[Dan Hwang]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danhwang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 00:19:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 00:22:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danhwang/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/357e2a7d-d2ac-4414-9ee7-70a8dc1bbd74.jpg">]]></description>
+            <link>https://thegrid.ai/danhwang/3347fc51-3d9a-4b6c-9ef1-ad308f73d6b7/index.html</link>
+            <guid isPermaLink="false">3347fc51-3d9a-4b6c-9ef1-ad308f73d6b7</guid>
+            <pubDate>Wed, 17 Aug 2016 00:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaa8bf4-3ef5-42f6-85de-c0a989ce8824.jpg">]]></description>
-            <link>undefinedbf1a1196-a656-47ac-a97b-7fa0f3e27ef8/index.html</link>
+            <link>https://thegrid.ai/danhwang/bf1a1196-a656-47ac-a97b-7fa0f3e27ef8/index.html</link>
             <guid isPermaLink="false">bf1a1196-a656-47ac-a97b-7fa0f3e27ef8</guid>
             <pubDate>Wed, 17 Aug 2016 00:18:53 GMT</pubDate>
         </item>
